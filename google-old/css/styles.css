@@ -1,0 +1,55 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    margin: 0;
+}
+.search{
+    padding: 3px;
+    text-align: center;
+    
+    background-color: rgb(252, 247, 241);
+}
+
+.btn-group{
+    margin: 4px;
+}
+
+.search-text{
+  
+    width: 30%;
+}
+
+#wrapper{
+    text-align: center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.first{
+    width: 35%;
+    background-color: aquamarine;
+
+}
+
+.middle{
+    width: 30%;
+    background: rgb(109, 255, 206);
+
+}
+
+.subs{
+    width:35%;
+    background: rgb(97, 250, 199);
+}
+
+
+
+.footer{
+    text-align: center;
+}
