@@ -44,6 +44,7 @@ p{
 }
 
 .subs{
+    padding: 16px;
     width:35%;
     background: rgb(97, 250, 199);
 }
