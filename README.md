@@ -1,1 +1,1 @@
-# Exercises on patika.dev
+# Exercises on patika.dev - theodinproject.com - and udemy course
